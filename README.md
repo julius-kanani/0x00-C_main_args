@@ -5,7 +5,7 @@
 ```C
 #include <stdio.h>
 
-int main(int argc, \*argc[])
+int main(int argc, *argc[])
 {
 	return (0);
 }
